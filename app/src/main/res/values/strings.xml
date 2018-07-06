@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <!-- MainActivity -->
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <!-- StudentActivity -->
+    <!-- <string name="name">Name</string> -->
+    <string name="address">Address</string>
+    <string name="birth_day">BirthDay</string>
+    <string name="course">Course</string>
+    <string name="sex">Sex</string>
+    <string name="clas">Class</string>
+    <string name="result">Send Info</string>
+</resources>
